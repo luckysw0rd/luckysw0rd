@@ -1,4 +1,4 @@
-<h1 align="left">Senior Full Stack & Blockchain</h1>
+<h1 align="left">Senior Full Stack & Blockchain Developer</h1>
 
 ###
 
