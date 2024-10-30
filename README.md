@@ -103,8 +103,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />  
   <img width="12" />
   <img alt="Angular" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" />
-  <img width="12" />
-  <img alt="Scrapy" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/frameworks/scrapy.svg" />
 </div>
 
 <br clear="both" />
