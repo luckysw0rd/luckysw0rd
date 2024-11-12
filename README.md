@@ -14,6 +14,8 @@
 <br  />
 
 ###
+
+<br clear="both" />
 <h1>💫 My🌟BEST🌟 SKILLS</h1>
 
 
@@ -102,8 +104,6 @@
   <img width="12" />
   <img alt="Angular" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" />
 </div>-->
-
-<br clear="both" />
 <p align="center">
 <table align="center">
   <tr>
